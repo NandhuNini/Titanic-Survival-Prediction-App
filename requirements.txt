@@ -1,0 +1,5 @@
+streamlit
+matplotlib
+pandas   # if you use pandas
+numpy    # if you use numpy
+seaborn  # if you use seaborn
